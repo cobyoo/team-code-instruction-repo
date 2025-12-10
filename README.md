@@ -1,1 +1,10 @@
-# team-code-instruction-repo
+# Team Code Instruction Repository
+
+이 저장소는 모든 프로젝트에서 공통으로 사용하는 팀 코드 인스트럭션을 관리합니다.
+다른 프로젝트에서는 이 저장소를 Git Submodule로 포함하여 사용합니다.
+
+## 포함된 내용
+- 팀 코드 스타일 가이드
+- 네이밍 규칙
+- 코드 작성 원칙
+- 리뷰 체크리스트
